@@ -10,7 +10,15 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
-		int data[]= {2, 42, 7, 14, 6,8 ,12,32};
+
+		//Title
+		
+		System.out.println("---------------------");
+		System.out.println("Merge Tutorial");
+		System.out.println("---------------------");
+		
+		int data[]= {2, 42, 7, 14, 6};
+
 		//My second test
 		System.out.println("Initial Test.");
 		System.out.println("Merge Test.");
