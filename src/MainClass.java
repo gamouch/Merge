@@ -1,4 +1,11 @@
 
+/**
+ * 
+ * @author Toshiba
+ * Commentaire simple.
+ *
+ */
+
 public class MainClass {
 
 	public static void main(String[] args) {
