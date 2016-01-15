@@ -12,7 +12,7 @@ public class MainClass {
 		
 		int data[]= {2, 42, 7, 14, 6};
 		//My second test
-		System.out.println("Second Test.");
+		System.out.println("Third Test.");
 
 		int sum = 0;
 		for (int i = 0; i < data.length; i++) {
