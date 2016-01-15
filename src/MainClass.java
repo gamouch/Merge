@@ -14,12 +14,10 @@ public class MainClass {
 		//My second test
 		System.out.println("Third Test.");
 
-		int sum = 0;
 		for (int i = 0; i < data.length; i++) {
 			System.out.println("Data n "+i+ ": " +data[i]);
-			sum += i;
-		}
-		System.out.println("La somme est :" +sum);				
+			
+		}			
 		}
 
 
