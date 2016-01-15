@@ -10,6 +10,12 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
+		//Title
+		
+		System.out.println("---------------------");
+		System.out.println("Merge Tutorial");
+		System.out.println("---------------------");
+		
 		int data[]= {2, 42, 7, 14, 6};
 		//My second test
 		System.out.println("Third Test.");
