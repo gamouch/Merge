@@ -22,10 +22,13 @@ public class MainClass {
 		//My second test
 		System.out.println("Initial Test.");
 		System.out.println("Merge Test.");
-		for (int i = 0; i < data.length; i++) {
+		int sum = 0;
+		for (int i = 0; i < data.length; i++) {			
 			System.out.println("Data n "+i+ ": " +data[i]);
-			
-		}			
+			sum += data[i];
+		}	
+		// somme
+		System.out.println("la somme est: "+sum);
 		}
 
 
