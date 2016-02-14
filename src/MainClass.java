@@ -26,6 +26,12 @@ public class MainClass {
 		}	
 		// somme
 		System.out.println("la somme est: "+sum);
+		
+		//Message
+		System.out.println("Ceci est message");
+		
+		//Error message
+		 System.err.println("Ceci est un message d'erreur");
 		}
 
 
