@@ -13,9 +13,6 @@ public class MainClass {
 
 		//Title
 		
-		System.out.println("---------------------");
-		System.out.println("Merge Tutorial");
-		System.out.println("---------------------");
 		
 		int data[]= {2, 42, 7, 14, 6};
 
